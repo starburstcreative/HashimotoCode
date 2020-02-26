@@ -1,4 +1,4 @@
-# KonamiCode
+# HashimotoCode
 Code for having a secret code sequence on a website. 
 
 ```
